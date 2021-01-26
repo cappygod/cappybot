@@ -1,0 +1,2 @@
+# cappybot
+making discord bots
